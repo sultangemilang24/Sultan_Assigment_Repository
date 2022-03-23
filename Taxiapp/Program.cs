@@ -26,6 +26,8 @@ namespace Taxiapp
             taxi_1.DropOffPassenger();
 
             taxi_2.TaxiInfo();
+
+            Console.ReadKey();
         }
     }
 }
